@@ -6,11 +6,10 @@ import router from './router'
 
 Vue.config.productionTip = false
 
-// instantiate the vue instance
 /* eslint-disable no-new */
 new Vue({
   el: '#app',
   router,
   components: { App },
   template: '<App/>'
-}).$mount('#app')
+})

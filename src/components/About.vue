@@ -1,7 +1,7 @@
 <template>
-  <div id="about">
-    These are the details about this thing.
-  </div>
+    <div class="about">
+        This is the about page telling people about things.
+    </div>
 </template>
 
 <script>
